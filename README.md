@@ -1,3 +1,3 @@
 # 5g-deployment
 Nrf file 
-Check
+Check going on
