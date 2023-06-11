@@ -2,3 +2,4 @@
 AMF file added
 Updating 
 testing
+delete
